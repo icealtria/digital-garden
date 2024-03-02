@@ -185,7 +185,7 @@ devDependencies:
     specifier: ^4.0.9
     version: 4.0.9
   '@types/node':
-    specifier: ^20.11.19
+    specifier: ^20.11.24
     version: 20.11.24
   '@types/pretty-time':
     specifier: ^1.1.5
